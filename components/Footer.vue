@@ -1,6 +1,6 @@
 <!-- prettier-ignore -->
 <template>
-<footer class="w-full relative text-center pt-36">
+<footer class="w-full relative text-center pt-36 pb-8">
     <div class="relative flex justify-center mb-8">
         <a href="https://www.facebook.com/yeetosophy" 
         class="pointer bg-special-2 rounded-full h-12 w-12 flex justify-center items-center mx-2"> 
